@@ -96,17 +96,21 @@ git checkout master
 ```sh
 git diff
 ```
+<<<<<<< HEAD
 или 
 * демонстрация разницы текущего и закоммиченного файлов, но в кратком варианте
 
 ```sh
 git diff --oneline
 ```
+=======
+>>>>>>> actions
 * информация о текущем состоянии git
 
 ```sh
 git status
 ```
+<<<<<<< HEAD
 * демонтсрирует все существующие ветки
 
 ```sh
@@ -123,3 +127,5 @@ git checkout
 git merge
 ```
 ### To be continued..
+=======
+>>>>>>> actions
